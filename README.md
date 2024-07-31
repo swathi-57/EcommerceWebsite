@@ -25,7 +25,7 @@ Clone the repo:
 
 sh
 Copy code
-git clone https://github.com/your-username/ecommerce-website.git
+git clone https://github.com/swathi-57/EcommerceWebsite.git
 Open the project folder:
 
 sh
